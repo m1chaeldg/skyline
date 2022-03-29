@@ -27,7 +27,7 @@ You can contact the core developers of Skyline at our **[Discord](https://discor
 
 ### Special Thanks
 A few noteworthy teams/projects who've helped us along the way are:
-* **[Ryujinx](https://ryujinx.org/):** We've used Ryujinx for reference throughout the project, the accuracy of their HLE kernel implementation makes it an amazing reference. The team behind the project has been extremely helpful with any queries we've had and have constantly helped us with issues we've come across. **It should be noted that Skyline is not based on Ryujinx**.
+* **[Ryujinx](https://ryujinx.org/):** We've used Ryujinx for reference throughout the project, the accuracy of their HLE sysmodule implementations make it an amazing reference. The team behind the project has been extremely helpful with any queries we've had and have constantly helped us with any issues we've come across. **It should be noted that Skyline is not based on Ryujinx**.
 
 * **[yuzu](https://yuzu-emu.org/):** Skyline's shader compiler is a **fork** of *yuzu*'s shader compiler with Skyline-specific changes, using it allowed us to focus on the parts of GPU emulation that we could specifically optimize for mobile while having a high-quality shader compiler implementation as a base. The team behind *yuzu* has also often helped us and have graciously provided us with a license exemption.
 
